@@ -8,12 +8,16 @@ o	Se implementará un análisis basado en la selección de conjuntos de datos de
 o	Se realiza un análisis exploratorio de datos (EDA) inicial para  cuatro conjuntos de datos, haciendo un diagnóstico y se elige una problemática específica para abordar (Tree Clasifier, KNN, Random Forest). Entregar un repositorio con el dataset elegido, el EDA inicial y la problemática seleccionada.
 
 •	Conjuntos de Datos Analizados: Los Dataset seleccionados son los siguientes:
+
 o	Predicción de Cáncer:
 https://www.kaggle.com/code/anandhuh/breast-cancer-prediction-accuracy-98-24/input
+
 o	Ataque al corazón:
 https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data?resource=download
+
 o	Banco: Prestamos Personal:
 https://www.kaggle.com/code/mahnazarjmand/personal-loan-eda-and-predict/input
+
 o	Predicción de Lluvias:
 https://www.kaggle.com/code/karnikakapoor/rain-prediction-ann
 
